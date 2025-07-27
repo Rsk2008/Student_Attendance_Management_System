@@ -9,7 +9,7 @@ Attendance report generation. uses JavaFX with FXML for the user interface.
 
 02.Clone the Project
 
-bash Copy Edit git clone https://github.com/your-username/student-attendance-system.git Open in IntelliJ IDEA
+bash Copy Edit git clone https://github.com/Rsk2008/Student_Attendance_Management_System Open in IntelliJ IDEA
 
 Open IntelliJ
 
